@@ -17,7 +17,7 @@
 
 #### Manually
 ```
-git clone https://github.com/leighshanie/*.git
+git clone https://github.com/leighshanie/Neumo-.git
 ``` 
 
 ## References
@@ -26,7 +26,7 @@ git clone https://github.com/leighshanie/*.git
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/leighshanie/*.git](https://github.com/leighshanie/*.git)
+[https://github.com/leighshanie/Neumo-.git](https://github.com/leighshanie/Neumo-.git)
 
 [swift-image]:https://img.shields.io/badge/swift-5.0-orange.svg
 [swift-url]: https://swift.org/
